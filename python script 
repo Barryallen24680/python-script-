@@ -1,0 +1,15 @@
+# initialize list
+Employeesdata.csv= "something@helpinghands.cm"
+Employeesdata.xlsx= "somethings@helpinghands.cm"
+c11.py
+
+# Initialize the email adresses
+email adress = ["something@helpinghands.cm"]
+# Initial flag variable to print something@helpinghands.org
+flag = 0
+
+# Iterate the list using for loop
+for email adress:
+    if email adress== "something@helpinghands.cm"
+        if flag == 0:
+            print("something@helpinghands.org")
